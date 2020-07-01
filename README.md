@@ -174,3 +174,9 @@ F1=2∗(precision∗recall)/(precision+recall)
 F1 score is having equal relative contribution of precision and recall.
 
 We can use classification\_report function of sklearn.metrics to get the classification report of our classification model
+
+
+## Final Result Based on Accuaracy
+Decision Tree : 95.39%
+KNN classifier : 90.43%
+Multinomial Naive Bayes:95.09%
